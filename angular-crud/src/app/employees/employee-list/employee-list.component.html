@@ -1,0 +1,30 @@
+﻿<h1>Employee List</h1>
+<a routerLink="add" class="btn btn-sm btn-success mb-2">Add Employee</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th style="width: 30%">Name</th>
+            <th style="width: 30%">Phone</th>
+            <th style="width: 30%">Address</th>
+            <th style="width: 10%"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let employee of employees">
+            <td>{{employee.name}}</td>
+            <td>{{employee.phone}}</td>
+            <td>{{employee.address}} {{employee.city}} {{employee.region}} {{employee.postalCode}}</td>            
+            <td style="white-space: nowrap">
+                <a routerLink="edit/{{employee.employeeId}}" class="btn btn-sm btn-primary me-1">Edit</a>
+                <button (click)="removeEmployee(employee.employeeId)" class="btn btn-sm btn-danger btn-delete-employee">
+                    <span>Delete</span>
+                </button>
+            </td>
+        </tr>
+        <tr *ngIf="!employees">
+            <td colspan="4" class="text-center">
+                <span class="spinner-border spinner-border-lg align-center"></span>
+            </td>
+        </tr>
+    </tbody>
+</table>
