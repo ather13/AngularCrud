@@ -1,0 +1,12 @@
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\bin\Debug\net6.0\CoreCrudApi.Db.deps.json
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\bin\Debug\net6.0\CoreCrudApi.Db.dll
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\bin\Debug\net6.0\CoreCrudApi.Db.pdb
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.csproj.AssemblyReference.cache
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.AssemblyInfoInputs.cache
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.AssemblyInfo.cs
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.csproj.CoreCompileInputs.cache
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.dll
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\refint\CoreCrudApi.Db.dll
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\CoreCrudApi.Db.pdb
+C:\repos\AngularNetCrud\CoreCrudApi\CoreCrudApi.Db\obj\Debug\net6.0\ref\CoreCrudApi.Db.dll
